@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivamtiwari18
 - 👀 I’m interested in SRE , Devops role
-- 🌱 I’m currently learning Devops,Networking
+- 🌱 I’m currently learning Devops Tools 
 - 💞️ I’m looking Internship in Devops and SRE
 - 📫 How to reach me  - shivam.tiwari552275@gmail.com
 
